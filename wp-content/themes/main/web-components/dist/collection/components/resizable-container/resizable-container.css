@@ -1,0 +1,5 @@
+resizable-container {
+  display: inline-block;
+  border: 2px solid #efefef;
+  resize: both;
+  overflow: auto; }

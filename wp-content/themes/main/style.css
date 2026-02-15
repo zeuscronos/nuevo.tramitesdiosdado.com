@@ -1,0 +1,29 @@
+/*
+Theme Name:     Tramites Diosdado
+Author:         tramitesdiosdado.com
+Author URI:     https://www.tramitesdiosdado.com
+Template:       Divi
+*/
+
+@import url('../Divi/style.css');
+
+#footer-bottom {
+	display: none;
+}
+
+/* Begin of Caldera Forms */
+.caldera-grid .parsley-required {
+	color: #ff0;
+}
+.caldera-grid input[type="file"] {
+	color: #fff;
+}
+.caldera-grid .g-recaptcha > div {
+	width: auto !important;
+}
+#CF5ba190da911e5_1-row-4,
+#CF5ba190da911e5_1-row-5,
+dummy {
+	text-align: right;
+}
+/* End of Caldera Forms */

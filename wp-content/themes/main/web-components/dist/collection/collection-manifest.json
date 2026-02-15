@@ -1,0 +1,50 @@
+{
+  "components": [
+    {
+      "tag": "resizable-container",
+      "dependencies": [],
+      "componentClass": "MyComponent",
+      "componentPath": "components/resizable-container/resizable-container.js",
+      "styles": {
+        "$": {
+          "stylePaths": [
+            "components/resizable-container/resizable-container.scss"
+          ]
+        }
+      },
+      "hostElement": {
+        "name": "el"
+      }
+    },
+    {
+      "tag": "year-counter",
+      "dependencies": [],
+      "componentClass": "MyComponent",
+      "componentPath": "components/year-counter/year-counter.js",
+      "styles": {
+        "$": {
+          "stylePaths": [
+            "components/year-counter/year-counter.scss"
+          ]
+        }
+      },
+      "props": [
+        {
+          "name": "since",
+          "type": "Number",
+          "attr": "since"
+        }
+      ],
+      "hostElement": {
+        "name": "el"
+      }
+    }
+  ],
+  "collections": [],
+  "compiler": {
+    "name": "@stencil/core",
+    "version": "0.11.0",
+    "typescriptVersion": "2.9.2"
+  },
+  "bundles": []
+}
