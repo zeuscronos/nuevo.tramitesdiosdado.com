@@ -461,7 +461,7 @@ class MPFS_Markdown_Pages_Filesystem {
     $path = (string) get_post_meta($post_id, self::META_PATH, true);
     if (trim($path) === '') return;
 
-    wp_enqueue_style('mpfs-markdown-css', plugin_dir_url(__FILE__) . 'assets/css/markdown-pages.css', [], '0.1.0');
+    wp_enqueue_style('mpfs-markdown', plugin_dir_url(__FILE__) . 'assets/css/markdown-pages.css', [], '0.1.0');
   }
 }
 
