@@ -1,4 +1,4 @@
-## Trámites España
+## [España](espana.md)
 
 - [Visado de corta duración (turístico, visita a familia, etc.)](espana/visado-corta-duracion.md)
 - [Visado de familiar de ciudadano de la Unión Europea (español, francés, etc.)](espana/visado-familiar-ue.md)
@@ -10,20 +10,20 @@
 - [Pasaporte español – solicitud por primera vez](espana/pasaporte-espanol-primera-vez.md)
 - [Pasaporte español – renovación](espana/pasaporte-espanol-renovacion.md)
 
-## Trámites EEUU
+## [EEUU](eeuu.md)
 
 - [Visado Humanitario](eeuu/visado-humanitario.md)
 - [Solicitud de ESTA](eeuu/solicitud-esta.md)
 - [Solicitud de visa de turismo o visita a familiares](eeuu/visado-turismo.md)
 
-## Trámites México
+## [México](mexico.md)
 
 - [Visado de Turismo](mexico/visado-turismo.md)
 
-## Trámites Canadá
+## [Canadá](canada.md)
 
 - [Autorización Electrónica de entrada sin Visa (eTA)](canada/permiso-viaje-eta.md)
 
-## Trámites Perú
+## [Perú](peru.md)
 
 - [Visado Turístico](peru/visado-turismo.md)
